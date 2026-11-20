@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.local/
+*.tsbuildinfo
+test-results/
+playwright-report/
+docs/reference/*.html
+docs/reference/*.css
+docs/reference/screenshots/
+docs/screenshots/*.png
+
+docs/comparison-before/
+.vercel/
+.vercel
+supabase/.temp/

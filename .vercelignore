@@ -1,0 +1,14 @@
+# Project evidence and local artifacts are not required to build or run the site.
+docs/
+tests/
+test-results/
+playwright-report/
+.local/
+.github/
+supabase/
+*.zip
+*.bundle
+
+# Credentials and deployment metadata.
+.env*
+.vercel/
