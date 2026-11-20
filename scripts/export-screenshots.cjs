@@ -1,0 +1,2 @@
+const fs=require('fs');const sharp=require('sharp');
+(async()=>{for(const file of fs.readdirSync('docs/screenshots')){if(file.endsWith('.webp'))fs.unlinkSync('docs/screenshots/'+file);if(file.endsWith('.png'))await sharp('docs/screenshots/'+file).jpeg({quality:90,mozjpeg:true}).toFile('docs/screenshots/'+file.replace(/png$/,'jpg'));}console.log('Screenshot evidence exported as JPEG; original PNGs retained locally.');})();
