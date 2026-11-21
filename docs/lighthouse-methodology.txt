@@ -1,0 +1,1 @@
+Local production build, Lighthouse default simulated mobile throttling, headless system Chromium, localhost HTTP. See fetchTime in the raw report. Lab measurement, not field INP. SEO intentionally noindex.
