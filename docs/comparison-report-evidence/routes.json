@@ -1,0 +1,585 @@
+{
+  "summary": {
+    "listed": 49,
+    "reference200": 49,
+    "clone200": 49,
+    "internalTargets": 151,
+    "broken": [],
+    "queries": [
+      [
+        "/puppies?origin=local",
+        200
+      ],
+      [
+        "/puppies?origin=imported",
+        200
+      ],
+      [
+        "/puppies?breed=maltipoo",
+        200
+      ],
+      [
+        "/puppies?breed=pomeranian",
+        200
+      ],
+      [
+        "/puppies?breed=poodle",
+        200
+      ],
+      [
+        "/puppies?breed=cavapoo",
+        200
+      ],
+      [
+        "/puppies?breed=shih-tzu",
+        200
+      ]
+    ],
+    "custom404": 404,
+    "profiles": 42,
+    "photoCount": 64,
+    "faqCount": 9,
+    "mediaCount": 132
+  },
+  "rows": [
+    {
+      "path": "/",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Premium teacuppuppies in Dubai"
+      ],
+      "projectHeading": [
+        "Premium teacuppuppies in Dubai"
+      ]
+    },
+    {
+      "path": "/puppies",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Available puppies"
+      ],
+      "projectHeading": [
+        "Available puppies"
+      ]
+    },
+    {
+      "path": "/gone-home",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Gone home"
+      ],
+      "projectHeading": [
+        "Gone home"
+      ]
+    },
+    {
+      "path": "/happy-families",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Happy families"
+      ],
+      "projectHeading": [
+        "Happy families"
+      ]
+    },
+    {
+      "path": "/how-it-works",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "How it works"
+      ],
+      "projectHeading": [
+        "How it works"
+      ]
+    },
+    {
+      "path": "/faq",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Questions & answers"
+      ],
+      "projectHeading": [
+        "Questions & answers"
+      ]
+    },
+    {
+      "path": "/contact",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Get in touch with us"
+      ],
+      "projectHeading": [
+        "Get in touch with us"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-max-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Max"
+      ],
+      "projectHeading": [
+        "Max"
+      ]
+    },
+    {
+      "path": "/puppies/korean-teacup-maltipoo-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Korean Teacup Maltipoo"
+      ],
+      "projectHeading": [
+        "Korean Teacup Maltipoo"
+      ]
+    },
+    {
+      "path": "/puppies/korean-teacup-poodle-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Korean Teacup Poodle"
+      ],
+      "projectHeading": [
+        "Korean Teacup Poodle"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-cavapoo-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Maltipoo & Cavapoo"
+      ],
+      "projectHeading": [
+        "Maltipoo & Cavapoo"
+      ]
+    },
+    {
+      "path": "/puppies/toy-poodle-male-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Toy Poodle"
+      ],
+      "projectHeading": [
+        "Toy Poodle"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-female-2",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Maltipoo"
+      ],
+      "projectHeading": [
+        "Maltipoo"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Pomeranian"
+      ],
+      "projectHeading": [
+        "Pomeranian"
+      ]
+    },
+    {
+      "path": "/puppies/copper-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Copper"
+      ],
+      "projectHeading": [
+        "Copper"
+      ]
+    },
+    {
+      "path": "/puppies/shitzu-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Shih Tzu"
+      ],
+      "projectHeading": [
+        "Shih Tzu"
+      ]
+    },
+    {
+      "path": "/puppies/shitzu-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Shih Tzu"
+      ],
+      "projectHeading": [
+        "Shih Tzu"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-female-1",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Maltipoo"
+      ],
+      "projectHeading": [
+        "Maltipoo"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Maltipoo"
+      ],
+      "projectHeading": [
+        "Maltipoo"
+      ]
+    },
+    {
+      "path": "/puppies/korean-teacup-pomeranian-1",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Korean Teacup Pomeranian"
+      ],
+      "projectHeading": [
+        "Korean Teacup Pomeranian"
+      ]
+    },
+    {
+      "path": "/puppies/korean-teacup-pomeranian",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Korean Teacup Pomeranian"
+      ],
+      "projectHeading": [
+        "Korean Teacup Pomeranian"
+      ]
+    },
+    {
+      "path": "/puppies/korean-teacup-pomeranian-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Korean Teacup Pomeranian"
+      ],
+      "projectHeading": [
+        "Korean Teacup Pomeranian"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-ace-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Ace"
+      ],
+      "projectHeading": [
+        "Ace"
+      ]
+    },
+    {
+      "path": "/puppies/poodle-leo-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Leo"
+      ],
+      "projectHeading": [
+        "Leo"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-mia-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Mia"
+      ],
+      "projectHeading": [
+        "Mia"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-sadie-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Sadie"
+      ],
+      "projectHeading": [
+        "Sadie"
+      ]
+    },
+    {
+      "path": "/puppies/blue-marle-pomeranian",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Pomeranian"
+      ],
+      "projectHeading": [
+        "Pomeranian"
+      ]
+    },
+    {
+      "path": "/puppies/pomsky-ollie-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Ollie"
+      ],
+      "projectHeading": [
+        "Ollie"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-bruno-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Bruno"
+      ],
+      "projectHeading": [
+        "Bruno"
+      ]
+    },
+    {
+      "path": "/puppies/maltese-buddy-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Buddy"
+      ],
+      "projectHeading": [
+        "Buddy"
+      ]
+    },
+    {
+      "path": "/puppies/maltese-charlie-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Charlie"
+      ],
+      "projectHeading": [
+        "Charlie"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-daisy-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Daisy"
+      ],
+      "projectHeading": [
+        "Daisy"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-bella-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Bella"
+      ],
+      "projectHeading": [
+        "Bella"
+      ]
+    },
+    {
+      "path": "/puppies/poodle-teddy-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Teddy"
+      ],
+      "projectHeading": [
+        "Teddy"
+      ]
+    },
+    {
+      "path": "/puppies/poodle-molly-female",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Molly"
+      ],
+      "projectHeading": [
+        "Molly"
+      ]
+    },
+    {
+      "path": "/puppies/pomski-coco-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Coco"
+      ],
+      "projectHeading": [
+        "Coco"
+      ]
+    },
+    {
+      "path": "/puppies/pomsky-rosie-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Rosie"
+      ],
+      "projectHeading": [
+        "Rosie"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-leo-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Leo"
+      ],
+      "projectHeading": [
+        "Leo"
+      ]
+    },
+    {
+      "path": "/puppies/poodle-molly-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Molly"
+      ],
+      "projectHeading": [
+        "Molly"
+      ]
+    },
+    {
+      "path": "/puppies/poodle-rocky-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Rocky"
+      ],
+      "projectHeading": [
+        "Rocky"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-sophie-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Sophie"
+      ],
+      "projectHeading": [
+        "Sophie"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-lola-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Lola"
+      ],
+      "projectHeading": [
+        "Lola"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-rex-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Rex"
+      ],
+      "projectHeading": [
+        "Rex"
+      ]
+    },
+    {
+      "path": "/puppies/pomsky-finn-male",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Finn"
+      ],
+      "projectHeading": [
+        "Finn"
+      ]
+    },
+    {
+      "path": "/puppies/maltipoo-zoe-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Zoe"
+      ],
+      "projectHeading": [
+        "Zoe"
+      ]
+    },
+    {
+      "path": "/puppies/pomeranian-mimi-girl",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Mimi"
+      ],
+      "projectHeading": [
+        "Mimi"
+      ]
+    },
+    {
+      "path": "/puppies/bichon-bailey-boy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Bailey"
+      ],
+      "projectHeading": [
+        "Bailey"
+      ]
+    },
+    {
+      "path": "/puppies/puppy",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Maltipoo"
+      ],
+      "projectHeading": [
+        "Maltipoo"
+      ]
+    },
+    {
+      "path": "/puppies/maltipo",
+      "referenceStatus": 200,
+      "projectStatus": 200,
+      "referenceHeading": [
+        "Poodle"
+      ],
+      "projectHeading": [
+        "Poodle"
+      ]
+    }
+  ]
+}
