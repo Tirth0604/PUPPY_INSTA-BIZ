@@ -1,0 +1,62 @@
+[
+  {
+    "name": "original",
+    "progress": 0.15,
+    "actor": [
+      234,
+      691
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -536.931, 0)",
+    "open": 2
+  },
+  {
+    "name": "original",
+    "progress": 0.45,
+    "actor": [
+      197,
+      674
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -1633.17, 0)",
+    "open": 6
+  },
+  {
+    "name": "original",
+    "progress": 0.8,
+    "actor": [
+      190,
+      671
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -3099.15, 0)",
+    "open": 11
+  },
+  {
+    "name": "project",
+    "progress": 0.15,
+    "actor": [
+      202,
+      690
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -607.42, 0)",
+    "open": 2
+  },
+  {
+    "name": "project",
+    "progress": 0.45,
+    "actor": [
+      202,
+      690
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -1821.03, 0)",
+    "open": 6
+  },
+  {
+    "name": "project",
+    "progress": 0.8,
+    "actor": [
+      202,
+      690
+    ],
+    "trackTransform": "matrix(1, 0, 0, 1, -3237.1, 0)",
+    "open": 11
+  }
+]
