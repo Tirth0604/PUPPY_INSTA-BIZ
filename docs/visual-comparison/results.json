@@ -1,0 +1,458 @@
+{
+  "capturedAt": "2026-11-21T06:37:40.296Z",
+  "tolerance": 16,
+  "region": "initial viewport at scrollTop 0; reduced motion, no masks",
+  "referenceFailedRequests": {},
+  "results": [
+    {
+      "route": "",
+      "width": 1920,
+      "height": 1080,
+      "withinTolerancePercent": 96.83,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "118.8px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "118.8px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.78,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "99px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "99px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 1280,
+      "height": 800,
+      "withinTolerancePercent": 96.51,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "88px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "88px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 1024,
+      "height": 768,
+      "withinTolerancePercent": 96.31,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "84.48px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "84.48px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "withinTolerancePercent": 96.93,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "70.656px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "70.656px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 430,
+      "height": 932,
+      "withinTolerancePercent": 92.94,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 91.92,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 375,
+      "height": 812,
+      "withinTolerancePercent": 91.2,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "",
+      "width": 360,
+      "height": 800,
+      "withinTolerancePercent": 91.11,
+      "reference": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Premium teacuppuppies in Dubai",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.9,
+      "reference": {
+        "overflow": false,
+        "heading": "Available puppies",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Available puppies",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 93.32,
+      "reference": {
+        "overflow": false,
+        "heading": "Available puppies",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Available puppies",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "gone-home",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.75,
+      "reference": {
+        "overflow": false,
+        "heading": "Gone home",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Gone home",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "gone-home",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 93.36,
+      "reference": {
+        "overflow": false,
+        "heading": "Gone home",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Gone home",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "happy-families",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 95.79,
+      "reference": {
+        "overflow": false,
+        "heading": "Happy families",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Happy families",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "happy-families",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 91.75,
+      "reference": {
+        "overflow": false,
+        "heading": "Happy families",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Happy families",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "how-it-works",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.88,
+      "reference": {
+        "overflow": false,
+        "heading": "How it works",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "How it works",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "how-it-works",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 92.74,
+      "reference": {
+        "overflow": false,
+        "heading": "How it works",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "How it works",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "faq",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.11,
+      "reference": {
+        "overflow": false,
+        "heading": "Questions & answers",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Questions & answers",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "faq",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 91.7,
+      "reference": {
+        "overflow": false,
+        "heading": "Questions & answers",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Questions & answers",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "contact",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 94.36,
+      "reference": {
+        "overflow": false,
+        "heading": "Get in touch with us",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Get in touch with us",
+        "headingFont": "135.36px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "contact",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 88.05,
+      "reference": {
+        "overflow": false,
+        "heading": "Get in touch with us",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Get in touch with us",
+        "headingFont": "49.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies/maltipoo-max-male",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 95.78,
+      "reference": {
+        "overflow": false,
+        "heading": "Max",
+        "headingFont": "72px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Max",
+        "headingFont": "72px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies/maltipoo-max-male",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 86.43,
+      "reference": {
+        "overflow": false,
+        "heading": "Max",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Max",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies/pomeranian-ace-boy",
+      "width": 1440,
+      "height": 900,
+      "withinTolerancePercent": 96.63,
+      "reference": {
+        "overflow": false,
+        "heading": "Ace",
+        "headingFont": "72px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Ace",
+        "headingFont": "72px",
+        "brokenVisibleImages": []
+      }
+    },
+    {
+      "route": "puppies/pomeranian-ace-boy",
+      "width": 390,
+      "height": 844,
+      "withinTolerancePercent": 86.35,
+      "reference": {
+        "overflow": false,
+        "heading": "Ace",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      },
+      "clone": {
+        "overflow": false,
+        "heading": "Ace",
+        "headingFont": "41.6px",
+        "brokenVisibleImages": []
+      }
+    }
+  ]
+}
